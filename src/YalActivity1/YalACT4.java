@@ -1,5 +1,5 @@
 
-package yalact4;
+package YalActivity1;
 
 import java.util.Scanner;
 
